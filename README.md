@@ -21,10 +21,9 @@ Um aplicativo simples de lista de tarefas (To-Do List) desenvolvido em Flutter u
 ## 🛠️ Funcionalidades
 
 - Adicionar novas tarefas.
-- Editar tarefas.
 - Marcar tarefas como concluídas.
 - Remover tarefas.
-- Persistência de dados local (usando `Hive`).
+- Persistência de dados local (usando `SqFlite`).
 
 ---
 
